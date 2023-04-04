@@ -1,0 +1,15 @@
+{
+    "name": "mirsad/cen308-app",
+    "description": "\"CEN 308 - Demo project for Software Engineering\",",
+    "authors": [
+        {
+            "name": "Mirsad Hadzic",
+            "email": "mirsad.hadzic@stu.ibu.edu.ba"
+        }
+    ],
+    "require": {
+        "mikecao/flight": "^1.3",
+        "zircote/swagger-php": "^3.1",
+        "firebase/php-jwt": "^5.2"
+    }
+}
